@@ -19,3 +19,9 @@ E:\demo\demo\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\Projects\demo\demo\bin\Debug\demo.exe.config
 D:\Projects\demo\demo\obj\x86\Debug\demo.exe
 D:\Projects\demo\demo\obj\x86\Debug\demo.pdb
+D:\projects\demo\demo\bin\Debug\demo.exe
+D:\projects\demo\demo\bin\Debug\demo.pdb
+D:\projects\demo\demo\obj\x86\Debug\demo.csprojResolveAssemblyReference.cache
+D:\projects\demo\demo\obj\x86\Debug\demo.Form1.resources
+D:\projects\demo\demo\obj\x86\Debug\demo.Properties.Resources.resources
+D:\projects\demo\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
